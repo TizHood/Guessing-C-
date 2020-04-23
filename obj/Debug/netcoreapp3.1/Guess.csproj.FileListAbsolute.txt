@@ -1,0 +1,13 @@
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.csprojAssemblyReference.cache
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.csproj.CoreCompileInputs.cache
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfoInputs.cache
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfo.cs
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.exe
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.deps.json
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.json
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.dev.json
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.dll
+C:\Users\olasobowale law film\Guess\bin\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.dll
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\olasobowale law film\Guess\obj\Debug\netcoreapp3.1\Guess.genruntimeconfig.cache
